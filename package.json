@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "peer": "^0.6.1",
+    "peerjs": "^1.4.7",
+    "serve-index": "^1.9.1"
+  }
+}
